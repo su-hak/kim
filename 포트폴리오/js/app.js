@@ -6,8 +6,9 @@ portfolio.addEventListener('click', function (){
     portfolio.getElementsByClassName('gnb').style.display = ;
 })
 */
+/*
 function portfolio {if (document.getElementById('port'))}
-
+*/
 
 
 //section 3 ul li span mouseover,out 속성 (classname은 안됨 id만 가능)
